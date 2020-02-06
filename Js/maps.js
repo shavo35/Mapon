@@ -28,9 +28,9 @@
  fetch('https://raw.githubusercontent.com/shavo35/Mapon/master/geojson/ualmap.geojson')
  .then(datos=> datos.json())
  .then(datos=>{console.log(datos)})
-
+  
  
-
+ 
 
 
 
